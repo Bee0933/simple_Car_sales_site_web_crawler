@@ -7,6 +7,8 @@ ___
 The aim of this project is to build a simple web scraper that crawls unique car information from a car sales website.   
 This scraper provides structured data which could be employed numerous purposes such as for car sales analysis, machine learning etc. including public enlightenment and educational purposes.
 
+[link to scraped site](https://www.cars.com/)
+
 <!--  -->
 
 ## **✔️ Libraries and tools 🛠️**
